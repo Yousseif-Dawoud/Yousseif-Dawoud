@@ -22,8 +22,7 @@
 - 💼 Specialized in **ASP.NET Core, MVC, Web API**
 - 🌱 Currently improving my skills in **Backend Architecture & System Design**
 - 🎯 Passionate about building **scalable and clean web applications**
-- 👨‍💻 All of my projects are available on  
-  👉 **https://github.com/Yousseif-Dawoud**
+- 👨‍💻 All of my projects are available on 👉 **https://github.com/Yousseif-Dawoud**
 - 💬 Ask me about **C#, .NET, REST APIs, SQL Server**
 - 📫 Reach me at **yussefgamal937@gmail.com**
 - Phone Number : 01090962397
