@@ -35,13 +35,13 @@
 </tr>
 <tr>
 <td align="center">
-<a href="https://l1nk.dev/qdlg3kh" target="blank">
+<a href="www.linkedin.com/in/yousseif-dawoud-029604363" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </td>
 
 <td align="center">
-<a href="https://l1nk.dev/w1z2s5q" target="blank">
+<a href="[https://l1nk.dev/w1z2s5q](https://www.instagram.com/yousseif_dawoud?igsh=c3QyeGN2MW5vZnJn)" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 </td>
@@ -53,7 +53,7 @@
 </td>
 
 <td align="center">
-<a href="https://wa.me/qr/L2QZN3JEGBW3L1" target="blank">
+<a href="[https://wa.me/qr/L2QZN3JEGBW3L1](https://www.facebook.com/share/1B13tTdhms/)" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="30" width="30"/>
 </a>
 </td>
